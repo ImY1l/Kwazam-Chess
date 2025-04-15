@@ -1,0 +1,24 @@
+TurnCount: 6
+CurrentPlayer: Blue
+BoardFlipped: false
+Player: Yousef Blue
+XOR Blue 7 0 2
+BIZ Blue 7 1
+SAU Blue 7 2
+BIZ Blue 6 1
+TOR Blue 7 4 2
+RAM Blue 6 0
+RAM Blue 5 1
+RAM Blue 5 3
+RAM Blue 6 4
+Player: Amena Red
+TOR Red 0 0 2
+BIZ Red 2 0
+SAU Red 0 2
+BIZ Red 0 3
+XOR Red 0 4 2
+RAM Red 1 0
+RAM Red 2 1
+RAM Red 4 2
+RAM Red 1 3
+RAM Red 1 4
