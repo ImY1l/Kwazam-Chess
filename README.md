@@ -10,9 +10,9 @@ Kwazam Chess is a two-player strategy game implemented in Java, featuring a fixe
   - Graphical User Interface using Java Swing
 
 ## ♟️ Pieces
-| Piece  | Movement Description                                         |
-|--------|--------------------------------------------------------------|
-| Ram    | Moves 1 step forward; reverses direction at board edge       |
+| Piece  | Movement Description       |
+|---|----|
+| Ram | Moves 1 step forward; reverses direction at board edge       |
 | Biz    | Moves in an L-shape (3x2); can jump over pieces              |
 | Tor    | Moves orthogonally; transforms into Xor after 2 turns       |
 | Xor    | Moves diagonally; cannot jump over other pieces              |
