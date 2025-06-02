@@ -29,9 +29,16 @@ Kwazam Chess is a two-player strategy game implemented in Java, featuring a fixe
 - `KwazamChess.java` – Entry point (main class)
 
 ## 🚀 Run Locally
+1. Clone the repository
    ```bash
-git clone https://github.com/ImY1l/Kwazam-Chess.git
-cd Kwazam-Chess
-javac KwazamChess.java
-java KwazamChess
-```
+   git clone https://github.com/ImY1l/Kwazam-Chess.git
+   cd Kwazam-Chess
+   ```
+2. Compile
+   ```bash
+   javac KwazamChess.java
+   ```
+3. Run
+   ```bash
+   java KwazamChess
+   ```
